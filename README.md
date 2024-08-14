@@ -1,1 +1,2 @@
-# Get_Taobao_goods_information
+# 淘宝商品批量获取的尝试
+## 本项目主要基于DrissionPage，代码中以“小题狂做”为案例
