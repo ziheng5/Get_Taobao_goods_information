@@ -1,6 +1,6 @@
-# 淘宝商品批量获取的尝试
+# 🐱:淘宝商品批量获取的尝试
 本项目主要基于DrissionPage来避开淘宝的反爬机制，批量获取商品信息并保存到xlsx表格文件中，用于数据分析、深度学习方面的应用。
-## 简单介绍DrissionPage工具
+## 🌴:简单介绍DrissionPage工具
 DrissionPage 是一个基于 Python 的网页自动化工具，由国内大佬开发。
 它既能控制浏览器，也能收发数据包，还能把两者合而为一。
 可兼顾浏览器自动化的便利性和 requests 的高效率。
@@ -8,3 +8,5 @@ DrissionPage 是一个基于 Python 的网页自动化工具，由国内大佬�
 它的语法简洁而优雅，代码量少，对新手非常友好。
 
 官方文档：https://www.drissionpage.cn/
+## 具体思路
+见小生的文章：https://blog.csdn.net/2301_79886169/article/details/140515871
